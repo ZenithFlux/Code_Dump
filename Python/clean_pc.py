@@ -12,6 +12,8 @@ paths = [
     f"{LOCALAPPDATA}\\pip\\cache",
     f"{LOCALAPPDATA}\\npm-cache",
     f"{LOCALAPPDATA}Low\\Temp",
+    f"{LOCALAPPDATA}\\Microsoft\\Edge\\User Data\\Default\\Cache",
+    f"{LOCALAPPDATA}\\Microsoft\\Edge\\User Data\\Default\\Code Cache",
     f"{APPDATA}\\discord\\Cache",
     f"{APPDATA}\\discord\\Code Cache",
     f"{APPDATA}\\discord\\GPUCache",
