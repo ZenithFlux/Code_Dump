@@ -1,5 +1,8 @@
 #include <bits/stdc++.h>
 #define int long long
+#define ull unsigned long long
+#define ul unsigned long
+#define umap unordered_map
 using namespace std;
 
 int32_t main(){
