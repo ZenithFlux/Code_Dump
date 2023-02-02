@@ -6,3 +6,6 @@ _*
 venv
 dataset
 .ipynb_checkpoints
+
+# Misc
+*.class

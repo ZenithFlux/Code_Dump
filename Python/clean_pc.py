@@ -11,16 +11,25 @@ paths = [
     f"{LOCALAPPDATA}\\Temp",
     f"{LOCALAPPDATA}\\pip\\cache",
     f"{LOCALAPPDATA}\\npm-cache",
+    f"{LOCALAPPDATA}\\NVIDIA\\DXCache",
     f"{LOCALAPPDATA}Low\\Temp",
     f"{LOCALAPPDATA}\\Microsoft\\Edge\\User Data\\Default\\Cache",
     f"{LOCALAPPDATA}\\Microsoft\\Edge\\User Data\\Default\\Code Cache",
+    f"{LOCALAPPDATA}\\Google\\Chrome\\User Data\\Default\\Cache",
+    f"{LOCALAPPDATA}\\Google\\Chrome\\User Data\\Default\\Code Cache",
+    f"{LOCALAPPDATA}\\Microsoft\\Edge\\User Data\\Default\\Service Worker\\CacheStorage",
+    f"{LOCALAPPDATA}\\Google\\Chrome\\User Data\\Default\\Service Worker\\CacheStorage",
+    f"{LOCALAPPDATA}\\NVIDIA Corporation\\NVIDIA GeForce Experience\\CefCache\\Cache",
     f"{APPDATA}\\discord\\Cache",
     f"{APPDATA}\\discord\\Code Cache",
     f"{APPDATA}\\discord\\GPUCache",
     f"{APPDATA}\\Code\\Cache",
     f"{APPDATA}\\Code\\CachedData",
     f"{APPDATA}\\Code\\CachedExtensions",
-    f"{APPDATA}\\Code\\Code Cache"
+    f"{APPDATA}\\Code\\Code Cache",
+    f"{APPDATA}\\Microsoft\\Teams\\Cache",
+    f"{APPDATA}\\Code\\Service Worker\\CacheStorage",
+    f"{APPDATA}\\Microsoft\\Teams\\Service Worker\\CacheStorage"
 ]
 
 paths.sort()
