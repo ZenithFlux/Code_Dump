@@ -33,6 +33,7 @@ const enableButtons = () => {
   });
   popupRef.classList.add("hide");
   wrapper.classList.remove("hide");
+  xTurn = true;
 };
 
 const winFunction = (letter) => {

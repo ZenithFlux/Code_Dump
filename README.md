@@ -1,3 +1,1 @@
-# Code Dump
-
-A dump for the programs I wrote for practice.
+#### Hosted at [zenithflux.github.io/Code_Dump](https://zenithflux.github.io/Code_Dump).
