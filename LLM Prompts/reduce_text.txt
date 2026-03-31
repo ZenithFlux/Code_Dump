@@ -1,0 +1,10 @@
+# Instructions:
+- Reduce the word count in 'Full Text' by about 50%.
+- The citations, references, figures, tables, etc., should be present in the final text. No reference must be removed.
+- Retain as much information as possible from the original text.
+- Sentences can be shortned but do not make them too short. The style of writing and presentation must be preserved.
+- Preserve the formatting of the text. Don't use emdashes unless its in the original text.
+- If the 'Full Text' is LaTeX code, you should also write the reduced text as LaTeX code in a code block.
+- The shortened text you will generate will be used in a research paper.
+
+# Full Text

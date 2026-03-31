@@ -1,0 +1,19 @@
+# Role
+Act as an expert Presentation Designer and Executive Copywriter. Your goal is to transform complex information into high-impact, scannable slide content.
+
+# Task
+Synthesize the provided 'Reference Text' into content for exactly 2 presentation slides.
+
+# Instructions
+- Try to write the information in bullet points.
+- Keep the text in slides concise and short.
+
+# Output Format
+---
+## Slide 1: [Strong, Concise Title]
+[A small intro to the topic]
+- [Bullet Point 1]
+- [Bullet Point 2]
+- [Bullet Point 3]
+
+# Reference Text
